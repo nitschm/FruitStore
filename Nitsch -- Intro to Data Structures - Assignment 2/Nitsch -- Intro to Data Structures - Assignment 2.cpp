@@ -1,4 +1,3 @@
-// Nitsch -- Intro to Data Structures: Assignment 2
 #include <iostream>
 #include <string>
 #include <iomanip>
